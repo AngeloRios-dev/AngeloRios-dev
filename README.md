@@ -41,24 +41,3 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
     width="40" height="40" /> 
 </p>
-
-
-```python
-class AngeloRios():
-    
-  def __init__(self):
-    self.name = "Angelo Rios";
-    self.username = "angelorios";
-    self.location = "Madrid, Spain";
-    self.linkedin = "www.linkedin.com/in/angelo-rios";
-
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-
-me = AngeloRios()
-```
-<!--
-self.web = "https://angelorios.dev";
--->
