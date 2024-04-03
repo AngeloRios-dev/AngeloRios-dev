@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 # About me
 <div align=left>
+  <p>
+    I'm an IT enthusiast with an insatiable curiosity, always pushing boundaries and having fun along the way, whether I'm solving tech problems, learning about the newest advancements, or exploring new things in my home lab. I’m looking for interesting possibilities in the field of software development where I can practice what I’ve learned, widen my horizons, and gain more in-depth knowledge in software development.
+  </p>
     <ul>
-    <li>🌱 <b>I’m currently learning</b>: Full Stack Web Development.</li>
     <li>🎯 <b>Focusing on</b>: building my skills</li>
-    <li>👨‍💻 <b>I’m open for</b>: A new job opportunity
     <li>🏡 <b>Lives in</b> Madrid, Spain</li>
-    <li>📫 <b>How to reach me</b>: angelorios@live.com</li>
     </ul>
 </div>
 
